@@ -16,10 +16,9 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        Aspiring to engineer
-        <span> Software</span>
+        Aspiring to engineer<span> Software</span>
         <br />
-        solutions that redefine  <span>Industry Standards</span>
+        solutions that redefine<span>Industry Standards</span>
       </h2>
 
       <div className="app__profiles">

@@ -36,7 +36,7 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import aman from '../assets/aman.png';
 import amanlogo from '../assets/amanlogo.png';
-
+import hireme from '../assets/hireme.png';
 
 export default {
   email,
@@ -74,4 +74,5 @@ export default {
   spotify,
   aman,
   amanlogo,
+  hireme,
 };
