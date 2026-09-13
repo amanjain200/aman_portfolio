@@ -1,0 +1,26 @@
+# Aman Jain
+
+AI and analytics professional based in Bengaluru, India. Currently an AI Analyst at Impact Analytics and a Computer Science graduate of NIT Raipur.
+
+## Core work
+
+- Enterprise retail analytics and demand-forecasting data readiness
+- Data integration and validation across BigQuery, GCS and Snowflake
+- Python and SQL automation, Airflow-scheduled reporting and forecast evaluation
+- Applied AI systems using RAG, LangGraph, tool calling, memory and FastAPI
+- Product configuration, implementation readiness and cross-functional client delivery
+
+## Selected projects
+
+- Agentic AI Workspace: stateful, source-grounded analytical assistant
+- US Visa Prediction E2E: production-minded ML pipeline from ingestion to model promotion
+- AI Calling Agent: real-time speech, reasoning and voice workflow
+
+## Verified profiles
+
+- Portfolio: https://amancodes.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/the-aman-jain/
+- GitHub: https://github.com/amanjain200
+- X: https://x.com/the_aman_jain
+- Medium: https://medium.com/@amanjain189200
+- Resume: https://amancodes.netlify.app/Aman_Jain_Resume_AI_Analytics.pdf
